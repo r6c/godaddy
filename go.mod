@@ -1,4 +1,4 @@
-module github.com/libdns/godaddy
+module github.com/r6c/godaddy
 
 go 1.18
 
